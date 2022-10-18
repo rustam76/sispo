@@ -1,0 +1,14 @@
+body {
+    max-width: 480px;
+    margin: auto;
+    font-size: 14px;
+    font-weight: 200;
+    /* color: #fffcfc;
+    background-color: rgb(250, 250, 250); */
+    -webkit-font-smoothing: antialiased;
+}
+.fixed-bottom {
+    max-width: 480px;
+    margin: auto;
+    -webkit-font-smoothing: antialiased;
+}
